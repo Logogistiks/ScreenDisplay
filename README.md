@@ -2,6 +2,9 @@ This is a project based on my personal need. \
 Sometimes when im watching a movie or something and don't want to turn off my other monitors, i need a natural cover for them. Or sometimes i need a quick source of light when my room is dark. \
 That's why i created this small project, which i have used intensively since i built it.
 
+### Requirements:
+- screeninfo (`pip install screeninfo`)
+
 ## ScreenDisplay
 On start, this program displays a blank black window on every monitor currently connected to your computer.
 
